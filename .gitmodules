@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hightR"]
+	path = hightR
+	url = https://github.com/yongwoo-eg-kim/hightr
+	shallow = true
+	registered = true
